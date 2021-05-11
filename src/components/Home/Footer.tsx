@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BottomNavigationAction, BottomNavigation} from '@material-ui/core';
 import { LinkedIn, Instagram, Facebook }from '@material-ui/icons';
 import withStyles from "@material-ui/core/styles/withStyles"
-import { styles } from "./styles"
+import { styles } from "../styles"
 
 interface Iclasses {
     classes: any
